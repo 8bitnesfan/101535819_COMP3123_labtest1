@@ -1,3 +1,5 @@
+// Question 3 create the logs
+
 const fs = require('fs');
 const path = require('path');
 
